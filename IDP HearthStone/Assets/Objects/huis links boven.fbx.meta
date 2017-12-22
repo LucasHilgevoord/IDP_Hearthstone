@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: f1f5ebaf8dd51484a8d93cf2557a7977
+timeCreated: 1512732023
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ball_op_toren
+    100002: ball_op_toren1
+    100004: ball_op_toren2
+    100006: ball_op_toren3
+    100008: basis
+    100010: dak__midden
+    100012: dak_zijkanten
+    100014: deur
+    100016: houten_dakdeel_voorkant
+    100018: //RootNode
+    100020: toren
+    100022: toren1
+    100024: toren2
+    100026: toren3
+    400000: ball_op_toren
+    400002: ball_op_toren1
+    400004: ball_op_toren2
+    400006: ball_op_toren3
+    400008: basis
+    400010: dak__midden
+    400012: dak_zijkanten
+    400014: deur
+    400016: houten_dakdeel_voorkant
+    400018: //RootNode
+    400020: toren
+    400022: toren1
+    400024: toren2
+    400026: toren3
+    2300000: ball_op_toren
+    2300002: ball_op_toren1
+    2300004: ball_op_toren2
+    2300006: ball_op_toren3
+    2300008: basis
+    2300010: dak__midden
+    2300012: dak_zijkanten
+    2300014: deur
+    2300016: houten_dakdeel_voorkant
+    2300018: toren
+    2300020: toren1
+    2300022: toren2
+    2300024: toren3
+    3300000: ball_op_toren
+    3300002: ball_op_toren1
+    3300004: ball_op_toren2
+    3300006: ball_op_toren3
+    3300008: basis
+    3300010: dak__midden
+    3300012: dak_zijkanten
+    3300014: deur
+    3300016: houten_dakdeel_voorkant
+    3300018: toren
+    3300020: toren1
+    3300022: toren2
+    3300024: toren3
+    4300000: deur
+    4300002: ball_op_toren3
+    4300004: ball_op_toren
+    4300006: toren3
+    4300008: basis
+    4300010: ball_op_toren1
+    4300012: ball_op_toren2
+    4300014: toren2
+    4300016: dak__midden
+    4300018: dak_zijkanten
+    4300020: houten_dakdeel_voorkant
+    4300022: toren
+    4300024: toren1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: dcd215707b81c0d48a1f4eda898065e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 3c59cac9ffebc1747bf3966dba227e09, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
